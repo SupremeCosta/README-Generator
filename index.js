@@ -22,6 +22,7 @@ inquirer
     { type: 'input', name: 'email', message: 'Enter your email address:' },
   ])
   .then((answers) => {
+    /* Take responses and generate the README file */
     const readmeContent = generateReadme(answers);
     fs.writeFile('README.md', readmeContent, (err) =>
       err ? console.log(err) : console.log('Successfully created README.md!')
