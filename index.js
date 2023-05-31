@@ -30,3 +30,32 @@ inquirer
   });
 
   /* Generate the content of the README file using the user's responses. */
+  function generateReadme(answers) {
+    return `
+  # ${answers.title}
+  ${licenses[answers.license]}
+  ## Description
+  ${answers.description}
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  ## Installation
+  ${answers.installation}
+  ## Usage
+  ${answers.usage}
+  ## License
+  This project is covered under the ${answers.license} license.
+  ## Contributing
+  ${answers.contributing}
+  ## Tests
+  ${answers.tests}
+  ## Questions
+  For any additional questions, you can contact me at:
+  - [GitHub Profile](https://github.com/${answers.username})
+  - Email: ${answers.email}
+    `;
+  }
