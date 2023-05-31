@@ -28,3 +28,5 @@ inquirer
       err ? console.log(err) : console.log('Successfully created README.md!')
     );
   });
+
+  /* Generate the content of the README file using the user's responses. */
