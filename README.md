@@ -17,9 +17,9 @@
   App will allow user to create readme based on user responses.
   ## Visuals
   Here is a video of the README generator interface.
-  <img src="./assets/images/README Generator 1.png" alt="README Generator Screenshot>
-  <img src="./assets/images/README Generator 2.png" alt="README Generator Screenshot> 
-  <img src="./assets/images/README Generator 3.png" alt="README Generator Screenshot> 
+  <img src="./assets/images/README Generator 1.png" alt="README Generator Screenshot">
+  <img src="./assets/images/README Generator 2.png" alt="README Generator Screenshot"> 
+  <img src="./assets/images/README Generator 3.png" alt="README Generator Screenshot"> 
   ## License
   This project is covered under the MIT license.
   ## Contributing
