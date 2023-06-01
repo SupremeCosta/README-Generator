@@ -6,6 +6,7 @@
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Visuals](#visuals)
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
@@ -14,6 +15,9 @@
   Install via github.
   ## Usage
   App will allow user to create readme based on user responses.
+  ## Visuals
+  Here is a video of the README generator interface.
+  <img src="./assets/images/test" alt="README Generator Screenshot> 
   ## License
   This project is covered under the MIT license.
   ## Contributing
