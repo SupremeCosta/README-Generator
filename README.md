@@ -16,7 +16,8 @@
   ## Usage
   App will allow user to create readme based on user responses.
   ## Visuals
-  Here is a video of the README generator interface.
+  Here is a video link along with visuals of the README generator interface.
+  https://drive.google.com/file/d/1qJeXYXHJpxzCGuq6xrsDx3XqGFgu3-UJ/view
   <img src="./assets/images/README Generator 1.png" alt="README Generator Screenshot">
   <img src="./assets/images/README Generator 2.png" alt="README Generator Screenshot"> 
   <img src="./assets/images/README Generator 3.png" alt="README Generator Screenshot"> 
